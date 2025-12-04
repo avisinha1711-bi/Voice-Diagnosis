@@ -2,7 +2,7 @@
 
 This repository contains the front-end user interface for the PragnaAI system, a research application designed for the voice-based analysis and preliminary detection of Parkinson's Disease metrics. The dashboard provides a modern, responsive interface for recording voice samples, visualizing audio metrics, and displaying model diagnostic results.
 
-#✨ Features
+# ✨ Features
 
 The dashboard is structured around four main real-time data cards, providing a complete overview of the diagnostic process:
 
